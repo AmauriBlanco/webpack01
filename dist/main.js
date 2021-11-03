@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#my-image"),console.log("index jgfdgdfgfdgfdgfdgfs folder change"),console.log("other folder chafdsfdsfsfdsfsdfsdnge")})();
